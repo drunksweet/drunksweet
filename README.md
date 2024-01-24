@@ -1,9 +1,9 @@
-### Hi there 👋
-This is DRUNKSWEET or you can call Chinese name Jiao Tangjiu(糖酒)
+# Hi there 👋
+## This is ***DRUNKSWEET*** or you can call Chinese name ***Jiao Tangjiu(糖酒)***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)
 
-Recently , I keep leaning Android Studio
+Currently , I keep leaning **Android Studio**
 
 
 
