@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is DRUNKSWEET or you can call Chinese name Jiao Tangjiu(糖酒)
+
 
 <!--
 **drunksweet/drunksweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
