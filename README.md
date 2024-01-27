@@ -1,30 +1,32 @@
-# Welcome ererybody 👋
+
+# ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit) Welcome ererybody 👋
 ## This is ***DRUNKSWEET*** or you can call Chinese name ***Jiao Tangjiu(糖酒)***
 
 
-#### the number of visitors✨
+#### ✨ The number of visitors ✨
 ![Visitor Count](https://profile-counter.glitch.me/drunksweet/count.svg)
 
-#### some details about my repositories✨
+#### ✨ Some details about my repositories ✨
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
 
-![](https://starchart.cc/drunksweet/Android_Study.svg)
-#### this is my ⚡ skill tree ⚡
+
+
+#### This is my ⚡ SKILL TREE ⚡
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![dolang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### this is my favorite IED
+#### This is my favorite ⚡ IED ⚡
 ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![as](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-🌱Currently , I keep leaning **Android Studio**
+##### 🌱Currently , I keep leaning **Android Studio**
 
 
 
@@ -41,4 +43,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![](https://starchart.cc/drunksweet/tangjava.svg)
 -->
