@@ -30,7 +30,7 @@
 
 ##### 🌱Currently , I keep leaning **Android Studio**
 
-
+![](https://github-readme-activity-graph.cyclic.app/graph?username=drunksweet&theme=dracula)
 
 <!--
 **drunksweet/drunksweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
