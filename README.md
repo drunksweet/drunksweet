@@ -8,9 +8,9 @@
 
 #### ✨ Some details about my ***repositories*** ✨
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=tokyonight)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=merko)
 
 
 
@@ -30,7 +30,7 @@
 
 ##### 🌱Currently , I keep leaning **Android Studio**
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=drunksweet&theme=dracula)
+
 
 <!--
 **drunksweet/drunksweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
