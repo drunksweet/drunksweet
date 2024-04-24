@@ -23,9 +23,13 @@
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dolang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![c++](https://img.shields.io/badge/C++-0000CD?style=for-the-badge&logo=c++&logoColor=white)
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF4444?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-191970?style=for-the-badge&logo=ros&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-000000?style=for-the-badge&logo=ardupilot&logoColor=white)
+![Latex](https://img.shields.io/badge/Latex-20B2AA?style=for-the-badge&logo=latex&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
@@ -37,7 +41,7 @@
 ![as](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
-##### 🌱Currently , I keep leaning **Android Studio**
+##### 🌱Currently , I keep leaning **Android Studio && ArduPilot**
 
 
 
