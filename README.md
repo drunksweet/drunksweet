@@ -41,7 +41,7 @@
 ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
 #### More personal informations
-👣[Blog](drunksweet.github.io)
+👣[Blog](drunksweet.github.io) really ugly , I promise you that I will beautify it this summer holiday🤦‍♂️
 
 ✨[CSDN](https://blog.csdn.net/2301_80272161?spm=1000.2115.3001.5343)
 
