@@ -2,7 +2,6 @@
 # ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit) Welcome ererybody 👋🥰
 ## This is ***DRUNKSWEET*** or you can call Chinese name ***Jiao Tangjiu(糖酒)***
 
-
 #### ✨ The number of ***VISITORS*** (of course include myself🤔) ✨
 ![Visitor Count](https://profile-counter.glitch.me/drunksweet/count.svg)
 
@@ -16,7 +15,7 @@
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunksweet&layout=compact&theme=merko)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 #### This is my ⚡ ***SKILL TREE*** ⚡
@@ -41,8 +40,10 @@
 ![as](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
+#### More personal informations
+👣[Blog](drunksweet.github.io)
 
-
+✨[CSDN](https://blog.csdn.net/2301_80272161?spm=1000.2115.3001.5343)
 
 <!--
 **drunksweet/drunksweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
