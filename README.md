@@ -15,8 +15,7 @@
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunksweet&layout=compact&theme=merko)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=merko)
 
 #### This is my ⚡ ***SKILL TREE*** ⚡
 
@@ -41,7 +40,7 @@
 ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
 #### More personal informations
-👣[Blog](drunksweet.github.io) really ugly , I promise you that I will beautify it this summer holiday🤦‍♂️
+👣[Blog](https://drunksweet.github.io/) really ugly , I promise you that I will beautify it this summer holiday🤦‍♂️
 
 ✨[CSDN](https://blog.csdn.net/2301_80272161?spm=1000.2115.3001.5343)
 
