@@ -13,7 +13,7 @@
 #### ✨ Some details about my ***repositories*** ✨
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunksweet&layout=compact&theme=merko)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunksweet&layout=compact&theme=merko)-->
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=merko)
 
