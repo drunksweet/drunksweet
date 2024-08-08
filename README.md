@@ -2,6 +2,9 @@
 # ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit) Welcome ererybody 👋🥰
 ## This is ***DRUNKSWEET*** or you can call Chinese name ***Jiao Tangjiu(糖酒)***
 
+### More personal informations
+👣**This is my personal blog to share my thought and sight [MyBlog](https://drunksweet.github.io/)**
+
 ### ✨ The number of ***VISITORS*** (of course include myself🤔) ✨
 ![Visitor Count](https://profile-counter.glitch.me/drunksweet/count.svg)
 
@@ -39,8 +42,7 @@
 ![as](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
-### More personal informations
-👣This is my personal blog to share my thought and sight [MyBlog](https://drunksweet.github.io/)
+
 
 <!-- 
 🌻[CSDN](https://blog.csdn.net/2301_80272161?spm=1000.2115.3001.5343) 
