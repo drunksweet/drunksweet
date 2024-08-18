@@ -28,11 +28,13 @@
 ![c++](https://img.shields.io/badge/C++-0000CD?style=for-the-badge&logo=c++&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF4444?style=for-the-badge&logo=ubuntu&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-191970?style=for-the-badge&logo=ros&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-000000?style=for-the-badge&logo=ardupilot&logoColor=white)
 ![Latex](https://img.shields.io/badge/Latex-20B2AA?style=for-the-badge&logo=latex&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+<!--
+![ROS](https://img.shields.io/badge/ROS-191970?style=for-the-badge&logo=ros&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-000000?style=for-the-badge&logo=ardupilot&logoColor=white)
+-->
 
 ### This is my favorite ⚡ ***IDE*** ⚡
 ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
