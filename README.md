@@ -32,7 +32,7 @@ dg
 }
 ```
 ---
-### This is Some details about my ***repositories***
+## More details about my ***repositories*** and me
 <!--
 
 <p>
@@ -40,10 +40,10 @@ dg
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunksweet&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunksweet&layout=compact&theme=white)
 -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=merko&hide_border=true&border_radius=10" width="1000"></img>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=gruvbox&hide_border=true&border_radius=10" width="1000"></img>
 
 ### This is my ⚡ ***SKILL TREE*** ⚡
 
@@ -53,7 +53,7 @@ dg
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-ff7500?style=for-the-badge&logo=swift&logoColor=white)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko&hide_border=true&border_radius=10"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10"></img>
 
 ![JavaScript](https://img.shields.io/badge/Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=black)
 ![css3](https://img.shields.io/badge/CSS-0099e6?style=for-the-badge&logo=css3&logoColor=white)
@@ -79,7 +79,7 @@ dg
 
 ---
 
-<img src="https://media.giphy.com/media/NsdzTDwJpM7dQNmLjR/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="300" height="300"></img><img src="https://media.giphy.com/media/SUX1TQHpE69rSX01DU/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="300" height="300"></img><img src="https://media.giphy.com/media/SaJMubXW9W5tEfmBAP/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=s" width="300" height="300"></img>
+<img src="https://media.giphy.com/media/NsdzTDwJpM7dQNmLjR/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="280"></img><img src="https://media.giphy.com/media/SUX1TQHpE69rSX01DU/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="280"></img><img src="https://media.giphy.com/media/SaJMubXW9W5tEfmBAP/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=s" width="280"></img>
 
 
 
