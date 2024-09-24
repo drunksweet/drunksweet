@@ -3,10 +3,10 @@
 <img src="https://media.giphy.com/media/eKm1IFZ8fZBFh2mICI/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=ts" width="280" height="100"></img><img src="https://media.giphy.com/media/eKm1IFZ8fZBFh2mICI/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=ts" width="280" height="100"></img><img src="https://media.giphy.com/media/eKm1IFZ8fZBFh2mICI/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=ts" width="280" height="100"></img>
 
 ---
-<img align="right" src="https://media.giphy.com/media/qMA60yQ2fUkXzm7WD2/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="500"></img>
-<img align="right" src="https://profile-counter.glitch.me/drunksweet/count.svg" width="500"></img>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=gruvbox" width="500"></img>
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=gruvbox" width="500"></img>
+<img align="right" src="https://media.giphy.com/media/qMA60yQ2fUkXzm7WD2/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="450"></img>
+<img align="right" src="https://profile-counter.glitch.me/drunksweet/count.svg" width="450"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=gruvbox" width="450"></img>
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=gruvbox" width="450"></img>
 
 ```java
 abstract class SuperCoder{
@@ -24,6 +24,12 @@ public class Drunksweet extends SuperCoder {
             {"Java", "Python", "C++","JavaScript"},
             {"blog", "design_patterns", "Git", "Vim"},
             {"windows", "android", "macos", "ubuntu"}
+        };
+    }
+    @Override
+    public String[][] softwareSkills() {
+        return new String[][]{
+            {"blog", "design_patterns", "Git", "Vim"},
         };
     }
     @Override
