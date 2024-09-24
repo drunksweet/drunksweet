@@ -1,9 +1,8 @@
 
-# ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit) Welcome ererybody
-<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif"></img>
+# Welcome ererybody<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="80"></img>
 ## This is ***DRUNKSWEET*** or you can call Chinese name ***Jiao Tangjiu(糖酒)***
 
-<img src="https://media.giphy.com/media/rhKT8njP1ClBQHKwZs/giphy.gif" width="10" height="10"></img>
+<img src="https://media.giphy.com/media/rhKT8njP1ClBQHKwZs/giphy.gif" atl="skateboredBoy"></img>
 
 <!--https://profile-counter.glitch.me/drunksweet/count.svg-->
 ### 🌕This is Some details about my ***repositories*** ☀️
