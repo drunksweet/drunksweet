@@ -1,22 +1,18 @@
 
-# ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit) Welcome ererybody 👋🥰
+# ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit) Welcome ererybody
+<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif"></img>
 ## This is ***DRUNKSWEET*** or you can call Chinese name ***Jiao Tangjiu(糖酒)***
 
-<!--### More personal informations
-👣**This is my personal blog to share my thought and sight [MyBlog](https://drunksweet.github.io/)**-->
+<img src="https://media.giphy.com/media/rhKT8njP1ClBQHKwZs/giphy.gif" width="10" height="10"></img>
 
-### ✨ The number of ***VISITORS*** (of course include myself🤔) ✨
-<p><span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
-  <img src="https://profile-counter.glitch.me/drunksweet/count.svg" style="display: block; margin: 0 auto;"></img>
-</p>
-
+<!--https://profile-counter.glitch.me/drunksweet/count.svg-->
 ### 🌕This is Some details about my ***repositories*** ☀️
-
+<!--
 <p>
   <img src="https://streak-stats.demolab.com?user=drunksweet&theme=merko&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j"></img>
   <img src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko&hide_border=true&border_radius=10"></img>
 </p>
-
+-->
 
 ### 
 
@@ -57,10 +53,17 @@
 
 
 
+<!--
+### More personal informations
+👣**This is my personal blog to share my thought and sight [MyBlog](https://drunksweet.github.io/)**
+### ✨ The number of ***VISITORS*** (of course include myself🤔) ✨
+<img src="https://media.giphy.com/media/mVWFDI1t56KLuzgWav/giphy.gif"></img>
+-->
+
+
 <!-- 
 🌻[CSDN](https://blog.csdn.net/2301_80272161?spm=1000.2115.3001.5343) 
 -->
-
 
 <!--
 **drunksweet/drunksweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
