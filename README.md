@@ -1,29 +1,47 @@
 
-<img src="https://media.giphy.com/media/jwaOyMu8Z3X9LOjkpC/giphy.gif?cid=ecf05e47khnjt2sx9k0vrkuzk1ilbodml7kn20x7atmsmuhj&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="500" height="170"></img><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFlMWw4dTN4bmxtMGZ0b2pydGZkcmoxMDRheTM3MXZ1aTQ5dmhmayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Zutn0ZHNv5x1FbUbFu/giphy.gif" width="220"></img>
+<img src="https://media.giphy.com/media/eKm1IFZ8fZBFh2mICI/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=ts" width="280" height="100"></img><img src="https://media.giphy.com/media/eKm1IFZ8fZBFh2mICI/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=ts" width="280" height="100"></img><img src="https://media.giphy.com/media/eKm1IFZ8fZBFh2mICI/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=ts" width="280" height="100"></img>
 
 ---
+<img align="right" src="https://media.giphy.com/media/qMA60yQ2fUkXzm7WD2/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s"></img>
 
-<h2>This is <strong><em>DRUNKSWEET</em></strong> or you can call my Chinese name <strong>Jiao Tangjiu(糖酒)</strong></h1>
+```java
+class superCoder{
+gdfgdf
+gdfgdxfg
+dfgdfgdfg
+gdgdsgds
+fdsfgdgdfg
+gdfgdg
+fbdfgdf
+fdfdfb
+bfdbdfbd
+fdzbzdfbdz
+fbdzfbzdb
+bdzfbdzb
+dzfbdbdzfb
+dfbdfbdzf
+dfbdfbfrgfdsf
 
-<p>&nbsp</p>
-
-
-<img src="https://media.giphy.com/media/rhKT8njP1ClBQHKwZs/giphy.gif" atl="skateboredBoy"></img>
-
-<!--https://profile-counter.glitch.me/drunksweet/count.svg-->
+grdfg
+fgdf
+g
+gsdg
+dgdg
+dfg
+dg
+}
+```
+---
 ### This is Some details about my ***repositories***
 <!--
+
 <p>
   <img src="https://streak-stats.demolab.com?user=drunksweet&theme=merko&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j"></img>
-  <img src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko&hide_border=true&border_radius=10"></img>
+  
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunksweet&layout=compact&theme=merko)
 -->
-<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="80"></img>
-
-### 
-
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunksweet&layout=compact&theme=merko)-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=merko&hide_border=true&border_radius=10" width="1000"></img>
 
@@ -34,6 +52,8 @@
 ![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-ff7500?style=for-the-badge&logo=swift&logoColor=white)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko&hide_border=true&border_radius=10"></img>
 
 ![JavaScript](https://img.shields.io/badge/Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=black)
 ![css3](https://img.shields.io/badge/CSS-0099e6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,6 +76,11 @@
 ![as](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/obsidian-7c3aed?style=for-the-badge&logo=obsidian&logoColor=black)
 <!--![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)-->
+
+---
+
+<img src="https://media.giphy.com/media/NsdzTDwJpM7dQNmLjR/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="300" height="300"></img><img src="https://media.giphy.com/media/SUX1TQHpE69rSX01DU/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="300" height="300"></img><img src="https://media.giphy.com/media/SaJMubXW9W5tEfmBAP/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=s" width="300" height="300"></img>
+
 
 
 
@@ -85,4 +110,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ![](https://starchart.cc/drunksweet/tangjava.svg)
+https://profile-counter.glitch.me/drunksweet/count.svg
 -->
