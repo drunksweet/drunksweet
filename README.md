@@ -2,23 +2,28 @@
 # ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit) Welcome ererybody 👋🥰
 ## This is ***DRUNKSWEET*** or you can call Chinese name ***Jiao Tangjiu(糖酒)***
 
-### More personal informations
-👣**This is my personal blog to share my thought and sight [MyBlog](https://drunksweet.github.io/)**
+<!--### More personal informations
+👣**This is my personal blog to share my thought and sight [MyBlog](https://drunksweet.github.io/)**-->
 
 ### ✨ The number of ***VISITORS*** (of course include myself🤔) ✨
-![Visitor Count](https://profile-counter.glitch.me/drunksweet/count.svg)
+<p><span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+  <img src="https://profile-counter.glitch.me/drunksweet/count.svg" style="display: block; margin: 0 auto;"></img>
+</p>
 
 ### 🌕This is Some details about my ***repositories*** ☀️
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=drunksweet&theme=merko&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko)
+<p>
+  <img src="https://streak-stats.demolab.com?user=drunksweet&theme=merko&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=merko&hide_border=true&border_radius=10"></img>
+</p>
+
 
 ### 
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunksweet&layout=compact&theme=merko)-->
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=merko)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=merko&hide_border=true&border_radius=10"></img>
 
 ### This is my ⚡ ***SKILL TREE*** ⚡
 
