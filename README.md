@@ -5,37 +5,37 @@
 ---
 # Introduce myself
 
-<img align="right" src="https://media.giphy.com/media/qMA60yQ2fUkXzm7WD2/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="430"></img>
-<img align="right" src="https://profile-counter.glitch.me/drunksweet/count.svg" width="430"></img>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=gruvbox" width="430"></img>
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=gruvbox" width="430"></img>
+<img align="right" src="https://media.giphy.com/media/qMA60yQ2fUkXzm7WD2/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="420"></img>
+<img align="right" src="https://profile-counter.glitch.me/drunksweet/count.svg" width="420"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&theme=gruvbox" width="420"></img>
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&theme=gruvbox" width="420"></img>
 
 ```java
-abstract class SuperCoder{
-    public abstract string[][] programingSkills{};
-    public abstract string[][] softwareSkills{};
-    public abstract string[][] frontend{};
-    public abstract string[][] android{};
-    public abstract string[][] ios{};
+abstract class SuperCoder {
+    public abstract String[][] getProgrammingSkills();
+    public abstract String[][] getSoftwareSkills();
+    public abstract String[][] getFrontendSkills();
+    public abstract String[][] getAndroidSkills();
+    public abstract String[][] getIosSkills();
 }
 
 public class Drunksweet extends SuperCoder {
     @Override
-    public String[][] programmingSkills() {
+    public String[][] getProgrammingSkills() {
         return new String[][]{
-            {"Java", "Python", "C++","JavaScript"},
+            {"Java", "Python", "C++", "JavaScript"},
             {"blog", "design_patterns", "Git", "Vim"},
             {"windows", "android", "macos", "ubuntu"}
         };
     }
     @Override
-    public String[][] softwareSkills() {
+    public String[][] getSoftwareSkills() {
         return new String[][]{
-            {"blog", "design_patterns", "Git", "Vim"},
+            {"blog", "design_patterns", "Git", "Vim"}
         };
     }
     @Override
-    public String[] frontend() {
+    public String[][] getFrontendSkills() {
         return new String[][]{
             {"javascript", "css", "html"},
             {"react", "npm"},
@@ -43,15 +43,15 @@ public class Drunksweet extends SuperCoder {
         };
     }
     @Override
-    public String[] android() {
+    public String[][] getAndroidSkills() {
         return new String[][]{
             {"java", "kotlin"},
-            {"OOP","MVC","xml","JVM"},
-            {"android_studio","IntelliJ_IDEA"}
+            {"OOP", "MVC", "xml", "JVM"},
+            {"android_studio", "IntelliJ_IDEA"}
         };
     }
     @Override
-    public String[] ios() {
+    public String[][] getIosSkills() {
         return new String[][]{
             {"swift"},
             {"MVVM"},
