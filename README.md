@@ -61,9 +61,11 @@ public class Drunksweet extends SuperCoder {
 ```
 ---
 
-<table><tr><td valign="middle" width="50%">
+<table><tr><td valign="middle" width="33%">
 
-### This is my ⚡ ***SKILL TREE*** ⚡
+### <img align="left" src="https://media.giphy.com/media/NsdzTDwJpM7dQNmLjR/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="50"></img>This is my ***SKILL TREE***
+
+---
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=javase&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,9 +81,11 @@ public class Drunksweet extends SuperCoder {
 ![Latex](https://img.shields.io/badge/Latex-20B2AA?style=for-the-badge&logo=latex&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-</td><td valign="middle" width="50%">
+</td><td valign="middle" width="34%">
 
-### This is my favorite ⚡ ***Tools*** ⚡
+### <img align="left" src="https://media.giphy.com/media/SUX1TQHpE69rSX01DU/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="50" height="55"></img>This is my favorite ***Tools***
+
+---
 
 ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -96,13 +100,30 @@ public class Drunksweet extends SuperCoder {
 
 <!--![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)-->
 
+</td><td valign="middle" width="33%">
+
+### <img align="left" src="https://media.giphy.com/media/SaJMubXW9W5tEfmBAP/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=s" width="50" height="68"></img>This is my ***SKILL TREE***
+
+---
+
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=javase&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![swift](https://img.shields.io/badge/swift-ff7500?style=for-the-badge&logo=swift&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=black)
+![css3](https://img.shields.io/badge/CSS-0099e6?style=for-the-badge&logo=css3&logoColor=white)
+![html5](https://img.shields.io/badge/HTML-ff5500?style=for-the-badge&logo=html5&logoColor=white)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FF4444?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Latex](https://img.shields.io/badge/Latex-20B2AA?style=for-the-badge&logo=latex&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 </td>
 
 ---
 
-<img src="https://media.giphy.com/media/NsdzTDwJpM7dQNmLjR/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="280"></img><img src="https://media.giphy.com/media/SUX1TQHpE69rSX01DU/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="280"></img><img src="https://media.giphy.com/media/SaJMubXW9W5tEfmBAP/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=s" width="280" height="350"></img>
-
----
 
 <!--
 # More details about my ***repositories*** and me
