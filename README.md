@@ -10,52 +10,46 @@
 <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&bg_color=fff1b0&text_color=ff0055&title_color=ff0055&icon_color=ff0055" width="420"></img>
 
 ```java
-abstract class SuperCoder {
-    public abstract String[][] getProgrammingSkills();
-    public abstract String[][] getSoftwareSkills();
-    public abstract String[][] getFrontendSkills();
-    public abstract String[][] getAndroidSkills();
-    public abstract String[][] getIosSkills();
+public interface ISuperCoder {
+    public String[][] getProgrammingSkills();
+    public String[] getSoftwareSkills();
+    
 }
 
-public class Drunksweet extends SuperCoder {
+public interface ISpecialMan {
+    public String[] getHobbies;
+}
+
+
+public class Drunksweet implements ISuperCoder, ISpecialMan {
+    private String enName = "drunksweet";
+    private String hometown = "WenZhou ZheJiang ｜ 浙江温州";
+    private String birthday = "2005/07/30";
+    private String unisersity = "CCNU"
+    private String degree = "undergraduate;
+    private String getCurrentFoucs = "React";
+
     @Override
     public String[][] getProgrammingSkills() {
         return new String[][]{
             {"Java", "Python", "C++", "JavaScript"},
-            {"blog", "design_patterns", "Git", "Vim"},
+            {"Frontend", "Android", "Ios"},
             {"windows", "android", "macos", "ubuntu"}
         };
     }
+
     @Override
-    public String[][] getSoftwareSkills() {
-        return new String[][]{
-            {"blog", "design_patterns", "Git", "Vim"}
+    public String[] getSoftwareSkills() {
+        return new String[]{
+            {"hexo", "design_patterns", "Git", "Vim"}
         };
     }
+
     @Override
-    public String[][] getFrontendSkills() {
-        return new String[][]{
-            {"javascript", "css", "html"},
-            {"react", "npm"},
-            {"vscode", "webstorm"}
-        };
-    }
-    @Override
-    public String[][] getAndroidSkills() {
-        return new String[][]{
-            {"java", "kotlin"},
-            {"OOP", "MVC", "xml", "JVM"},
-            {"android_studio", "IntelliJ_IDEA"}
-        };
-    }
-    @Override
-    public String[][] getIosSkills() {
-        return new String[][]{
-            {"swift"},
-            {"MVVM"},
-            {"xcode"}
-        };
+    public String[] getSoftwareSkills() {
+        return new String[]{
+            };
+        }
     }
 }
 ```
