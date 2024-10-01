@@ -13,46 +13,44 @@
 public interface ISuperCoder {
     public String[][] getProgrammingSkills();
     public String[] getSoftwareSkills();
-    
 }
 
 public interface ISpecialMan {
-    public String[] getHobbies;
+    public String[] getHobbies();
 }
-
 
 public class Drunksweet implements ISuperCoder, ISpecialMan {
     private String enName = "drunksweet";
-    private String hometown = "WenZhou ZheJiang ｜ 浙江温州";
+    private String hometown = "WenZhou ZheJiang | 浙江温州";
     private String birthday = "2005/07/30";
-    private String unisersity = "CCNU"
-    private String degree = "undergraduate;
-    private String CurrentFoucs = "React";
+    private String university = "CCNU";
+    private String degree = "undergraduate";
+    private String currentFocus = "React";
 
     @Override
     public String[][] getProgrammingSkills() {
         return new String[][]{
             {"Java", "Python", "C++", "JavaScript"},
-            {"Frontend", "Android", "Ios"},
-            {"windows", "android", "macos", "ubuntu"}
+            {"Frontend", "Android", "iOS"},
+            {"Windows", "Android", "MacOS", "Ubuntu"}
         };
     }
 
     @Override
     public String[] getSoftwareSkills() {
         return new String[]{
-            "hexo", "design_patterns", "Git", "Vim"
+            "Hexo", "Design Patterns", "Git", "Vim"
         };
     }
 
     @Override
     public String[] getHobbies() {
-        return new String[] {
-            return new String[]{
-            "skateborad", "singing"
+        return new String[]{
+            "Skateboard", "Singing"
         };
     }
 }
+
 ```
 ---
 
