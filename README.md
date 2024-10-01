@@ -27,7 +27,7 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
     private String birthday = "2005/07/30";
     private String unisersity = "CCNU"
     private String degree = "undergraduate;
-    private String getCurrentFoucs = "React";
+    private String CurrentFoucs = "React";
 
     @Override
     public String[][] getProgrammingSkills() {
@@ -41,15 +41,16 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
     @Override
     public String[] getSoftwareSkills() {
         return new String[]{
-            {"hexo", "design_patterns", "Git", "Vim"}
+            "hexo", "design_patterns", "Git", "Vim"
         };
     }
 
     @Override
-    public String[] getSoftwareSkills() {
-        return new String[]{
-            };
-        }
+    public String[] getHobbies() {
+        return new String[] {
+            return new String[]{
+            "skateborad", "singing"
+        };
     }
 }
 ```
