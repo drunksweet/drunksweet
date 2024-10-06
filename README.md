@@ -66,9 +66,10 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-ff7500?style=for-the-badge&logo=swift&logoColor=white)
 
-![as](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![as](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![ios](https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=apple&logoColor=white)
+![anaconda](https://img.shields.io/badge/anaconda-397d2f?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF4444?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Latex](https://img.shields.io/badge/Latex-20B2AA?style=for-the-badge&logo=latex&logoColor=white)
 
@@ -79,21 +80,20 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
 
 ---
 
-![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![javaidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=White)
 ![webstorm](https://img.shields.io/badge/webstrom-ff4000.svg?style=for-the-badge&logo=webstorm&logoColor=White)
 ![xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=white)
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![Obsidian](https://img.shields.io/badge/obsidian-7c3aed?style=for-the-badge&logo=obsidian&logoColor=black)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![powerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
 <!--![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)-->
-
+<!--![powerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=bash&logoColor=white)-->
 </td><td valign="top" width="33%">
 
 ### <img align="left" src="https://media.giphy.com/media/SaJMubXW9W5tEfmBAP/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=s" width="50" height="68"></img>My ***FRONTEND*** skill set
@@ -103,6 +103,8 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
 ![JavaScript](https://img.shields.io/badge/Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=black)
 ![css3](https://img.shields.io/badge/CSS-0099e6?style=for-the-badge&logo=css3&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML-ff5500?style=for-the-badge&logo=html5&logoColor=white)
+![react](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=#70c8d6&textColor=#70c8d6)
+
 
 ![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![webstorm](https://img.shields.io/badge/webstrom-ff4000.svg?style=for-the-badge&logo=webstorm&logoColor=White)
