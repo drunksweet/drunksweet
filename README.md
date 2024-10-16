@@ -102,8 +102,10 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
 
 ![JavaScript](https://img.shields.io/badge/Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=black)
 ![css3](https://img.shields.io/badge/CSS-0099e6?style=for-the-badge&logo=css3&logoColor=white)
+![tailwind](https://img.shields.io/badge/tailwind-333333?style=for-the-badge&logo=tailwindcss&logoColor=#38bdf8)
 ![html5](https://img.shields.io/badge/HTML-ff5500?style=for-the-badge&logo=html5&logoColor=white)
-![react](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=#70c8d6&textColor=#70c8d6)
+![react](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=#70c8d6)
+
 
 
 ![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
