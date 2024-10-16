@@ -63,6 +63,7 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=javase&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=black)
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-ff7500?style=for-the-badge&logo=swift&logoColor=white)
 
