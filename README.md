@@ -25,7 +25,7 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
     private String birthday = "2005/07/30";
     private String university = "CCNU";
     private String degree = "undergraduate";
-    private String currentFocus = "React";
+    private String currentFocus = "ReactNative";
 
     @Override
     public String[][] getProgrammingSkills() {
@@ -102,6 +102,7 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
 ---
 
 ![JavaScript](https://img.shields.io/badge/Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-3077c5?style=for-the-badge&logo=typescript&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS-0099e6?style=for-the-badge&logo=css3&logoColor=white)
 ![tailwind](https://img.shields.io/badge/tailwind-333333?style=for-the-badge&logo=tailwindcss&logoColor=#38bdf8)
 ![html5](https://img.shields.io/badge/HTML-ff5500?style=for-the-badge&logo=html5&logoColor=white)
