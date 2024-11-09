@@ -25,7 +25,7 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
     private String birthday = "2005/07/30";
     private String university = "CCNU";
     private String degree = "undergraduate";
-    private String currentFocus = "ReactNative";
+    private String currentFocus = "Astor && React-Native";
 
     @Override
     public String[][] getProgrammingSkills() {
