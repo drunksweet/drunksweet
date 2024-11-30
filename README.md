@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/eKm1IFZ8fZBFh2mICI/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=ts" width="280" height="100"></img><img src="https://media.giphy.com/media/eKm1IFZ8fZBFh2mICI/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=ts" width="280" height="100"></img><img src="https://media.giphy.com/media/eKm1IFZ8fZBFh2mICI/giphy.gif?cid=ecf05e47khxx6mqb70utl6tjo279ftcgy5395i9opl9kqy9q&ep=v1_gifs&rid=giphy.gif&ct=ts" width="280" height="100"></img>
 
 ---
-# <img align="left" src="https://media.giphy.com/media/lWhq4Gw6etsj5WKY2p/giphy.gif?cid=ecf05e47092t9nhdl1sc81elpj04to3aypl3t97v7hvjepqn&ep=v1_gifs&rid=giphy.gif&ct=s" width="45">Introduce myself
+# <img align="left" src="https://media.giphy.com/media/lWhq4Gw6etsj5WKY2p/giphy.gif?cid=ecf05e47092t9nhdl1sc81elpj04to3aypl3t97v7hvjepqn&ep=v1_gifs&rid=giphy.gif&ct=s" width="45">Introduce Myself
 
 <img align="right" src="https://media.giphy.com/media/qMA60yQ2fUkXzm7WD2/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="420"></img>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&bg_color=fff1b0&text_color=ff0055&title_color=ff0055&icon_color=ff0055" width="420"></img>
@@ -52,6 +52,9 @@ public class Drunksweet implements ISuperCoder, ISpecialMan {
 
 ```
 ---
+# <img align="left" src="https://media.giphy.com/media/KXGZbJYMADTrVquhie/giphy.gif" width="45"></img> Focused Technical Fields 
+
+**Focus on learning technology, but not limited to it.**
 <img align="left" src="https://media.giphy.com/media/svpb0hF4Fz1HBWPCqB/giphy.gif" width="210"></img>
 [![roadmap.sh](https://roadmap.sh/card/wide/65bb599c0c54812283733235?variant=light&roadmaps=frontend%2Creact%2Cjavascript%2Creact-native)](https://roadmap.sh)
 
