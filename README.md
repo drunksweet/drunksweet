@@ -5,48 +5,40 @@
 # <img align="left" src="https://media.giphy.com/media/lWhq4Gw6etsj5WKY2p/giphy.gif?cid=ecf05e47092t9nhdl1sc81elpj04to3aypl3t97v7hvjepqn&ep=v1_gifs&rid=giphy.gif&ct=s" width="45">Introduce Myself
 
 <img align="right" src="https://media.giphy.com/media/qMA60yQ2fUkXzm7WD2/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="420"></img>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=drunksweet&show_icons=true&bg_color=fff1b0&text_color=ff0055&title_color=ff0055&icon_color=ff0055" width="420"></img>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Dwell+in+the+realm+of+bliss;Waltz+with+existence%2C+frolic+with+the+universe" alt="Typing SVG" /></a>
 <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&bg_color=fff1b0&text_color=ff0055&title_color=ff0055&icon_color=ff0055" width="420"></img>
 
-```java
-public interface ISuperCoder {
-    public String[][] getProgrammingSkills();
-    public String[] getSoftwareSkills();
+```typescript
+interface ISuperCoder {
+    getProgrammingSkills(): string[][];
+    getSoftwareSkills(): string[];
 }
 
-public interface ISpecialMan {
-    public String[] getHobbies();
+interface ISpecialMan {
+    getHobbies(): string[];
 }
 
-public class Drunksweet implements ISuperCoder, ISpecialMan {
-    private String enName = "drunksweet";
-    private String hometown = "WenZhou ZheJiang | 浙江温州";
-    private String birthday = "2005/07/30";
-    private String university = "CCNU";
-    private String degree = "undergraduate";
-    private String currentFocus = "Astor && React-Native";
+class Drunksweet implements ISuperCoder, ISpecialMan {
+    private enName: string = "drunksweet";
+    private hometown: string = "WenZhou ZheJiang | 浙江温州";
+    private birthday: string = "2005/07/30";
+    private university: string = "CCNU";
+    private degree: string = "undergraduate";
+    private currentFocus: string = "Astro && React-Native";
 
-    @Override
-    public String[][] getProgrammingSkills() {
-        return new String[][]{
-            {"Java", "Python", "C++", "JavaScript"},
-            {"Frontend", "Android", "iOS"},
-            {"Windows", "Android", "MacOS", "Ubuntu"}
-        };
+    getProgrammingSkills(): string[][] {
+        return [
+            ["JavaScript", "TypeScript", "Java", "Python", "Swift"],
+            ["Frontend", "React-Native", "Android", "iOS"],
+        ];
     }
 
-    @Override
-    public String[] getSoftwareSkills() {
-        return new String[]{
-            "Hexo", "Design Patterns", "Git", "Vim"
-        };
+    getSoftwareSkills(): string[] {
+        return ["Version Control", "CI/CD", "Design Patterns"];
     }
 
-    @Override
-    public String[] getHobbies() {
-        return new String[]{
-            "Skateboard", "Singing"
-        };
+    getHobbies(): string[] {
+        return ["Skateboard🛹", "Singing🎤", "history🛞"];
     }
 }
 
